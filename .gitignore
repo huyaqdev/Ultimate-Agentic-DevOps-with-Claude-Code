@@ -1,0 +1,8 @@
+# Terraform
+terraform/.terraform/
+terraform/terraform.tfstate
+terraform/terraform.tfstate.backup
+terraform/*.tfplan
+
+# Claude Code local settings (contains AWS credentials)
+.claude/settings.local.json
